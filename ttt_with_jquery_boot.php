@@ -316,16 +316,3 @@
         </div>
     </body>
 </html>
-
-
-<!--
-sound on click...
-
-sleep in game against computer
-Save record via codeignitor
-Get new records from db
-Refresh results box and game. 
-
-Box font size should be resizable as per windows resize.
-Box X 0 should be middle vertically align
--->
