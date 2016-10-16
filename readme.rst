@@ -3,8 +3,14 @@ Game: Tic Tac Toe
 Demo URL:
     http://snwebtechnologies.com/tictactoe/
 
-Technical documentation:
+Technologies used:
+- bootstrap 3 with its grid system
+- jQuery
+- fontawesome
+- codeigniter 3
+- mysql 5
 
+Technical documentation:
 
 CodeIgniter
     Views:
