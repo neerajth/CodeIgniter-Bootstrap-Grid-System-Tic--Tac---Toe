@@ -1,5 +1,8 @@
 Game: Tic Tac Toe
 
+Demo URL:
+    http://snwebtechnologies.com/tictactoe/
+
 Technical documentation:
 
 
@@ -140,9 +143,6 @@ Installation:
 Git
     -code is available via git and can be cloned via following URL.
     git clone https://neerajth@bitbucket.org/neerajth/tictactoe.git
-
-Demo URL:
-    http://snwebtechnologies.com/tictactoe/
 
 extension [advanced version]:
     - I can make the functionality such that two players can play from different networks.
